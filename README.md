@@ -1,3 +1,4 @@
 # git_test
-The Odin Project\n
+The Odin Project
 Hello Odin!
+Drip
